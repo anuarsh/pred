@@ -1,4 +1,4 @@
 ftest<-function(x,y){
-  x+y
+  4*x-4*y
   
 }
